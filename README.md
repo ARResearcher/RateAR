@@ -22,4 +22,4 @@ _Details:_ Each image features a single virtual object selected from a total of 
 
 # Acknowledgments
 
-The contributors of the dataset are [Lin Duan](https://scholar.google.com/citations?user=3KGmyogAAAAJ&hl=en), Sarah Eom, Yanming Xiu, and [Maria Gorlatova](https://maria.gorlatova.com/bio/). For questions on this repository or the related paper, please contact Lin Duan at ld213 [AT] duke [DOT] edu.
+The contributors of the dataset are [Lin Duan](https://scholar.google.com/citations?user=3KGmyogAAAAJ&hl=en), Eli Rotondo, Sarah Eom, Yanming Xiu, and [Maria Gorlatova](https://maria.gorlatova.com/bio/). For questions on this repository or the related paper, please contact Lin Duan at ld213 [AT] duke [DOT] edu.
